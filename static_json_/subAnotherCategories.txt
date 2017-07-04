@@ -1,0 +1,83 @@
+
+[
+{
+"Name": "All Flat-Panel TVs",
+"Id": "abcat0101001"
+},
+{
+"Name": "4K Ultra HD TVs",
+"Id": "pcmcat333800050003"
+},
+{
+"Name": "Smart TVs",
+"Id": "pcmcat220700050011"
+},
+{
+"Name": "Curved TVs",
+"Id": "pcmcat333800050004"
+},
+{
+"Name": "3D TVs",
+"Id": "pcmcat205800050000"
+},
+{
+"Name": "LCD TVs",
+"Id": "pcmcat193400050017"
+},
+{
+"Name": "LED TVs",
+"Id": "pcmcat193400050018"
+},
+{
+"Name": "Plasma TVs",
+"Id": "pcmcat193400050016"
+},
+{
+"Name": "OLED TVs",
+"Id": "pcmcat301000050010"
+},
+{
+"Name": "Outdoor TVs",
+"Id": "pcmcat333800050005"
+},
+{
+"Name": "TV/DVD Combos",
+"Id": "abcat0101005"
+},
+{
+"Name": "Find the Perfect TV",
+"Id": "pcmcat748302046702"
+},
+{
+"Name": "TV & Home Theater Accessories",
+"Id": "abcat0107000"
+},
+{
+"Name": "TV & Home Theater Services",
+"Id": "pcmcat138100050024"
+},
+{
+"Name": "xFront Projectors",
+"Id": "abcat0101003"
+},
+{
+"Name": "xScreens",
+"Id": "abcat0101008"
+},
+{
+"Name": "xPortable",
+"Id": "abcat0101004"
+},
+{
+"Name": "Tube TVs",
+"Id": "abcat0101006"
+},
+{
+"Name": "Kid's TVs",
+"Id": "abcat0101007"
+},
+{
+"Name": "TV Accessories",
+"Id": "abcat0107001"
+}
+]

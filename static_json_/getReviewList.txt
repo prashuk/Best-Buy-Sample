@@ -1,0 +1,62 @@
+[
+{
+"Name": "JoeQC",
+"Rating": 1,
+"Comment": "Had good luck with a 36\" and 32\" LCD Vizio. Kept with them instead of Samsung for a 60\" which died 14 months after purchase and Vizio won't support , fix, or even send parts. What a waste of money.",
+"Title": "$1100 TV lasted just past 1 year warranty"
+},
+{
+"Name": "wvfirefighter",
+"Rating": 5,
+"Comment": "Really great tv and services that came with it. Would recommend to everyone",
+"Title": "Great for the services it offers"
+},
+{
+"Name": "Diego",
+"Rating": 1,
+"Comment": "I bought this $800 piece of junk with no warranty. And of course it went to cr@* within a year and a half. I will never buy another vizio again. I'd rather buy a Hisense, or a JVC. I say this because my JVC 42' LCD TV is going 10 years strong with no issues. And my other two Hisense are going strong as well.",
+"Title": "Worst TV EVER"
+},
+{
+"Name": "mrshawman",
+"Rating": 2,
+"Comment": "Everything started out fine, then after a few months the screen developed wide dark areas in three places. Apps are ok.",
+"Title": "Good Price, Not So Good Picture"
+},
+{
+"Name": "JDav23",
+"Rating": 5,
+"Comment": "Picture is great, the smart functions work perfect for what I need. No issues so far",
+"Title": "Great purchase"
+},
+{
+"Name": "Maintman",
+"Rating": 5,
+"Comment": "I purchased this tv last year and have had zero issues with it. Would buy again and recommend to anyone. Very happy with product.",
+"Title": "Great buy"
+},
+{
+"Name": "Jimbo",
+"Rating": 4,
+"Comment": "Easy to setup and mount on the wall. Be careful on what screws you use if mounting",
+"Title": "Great tv for the price"
+},
+{
+"Name": "Steph",
+"Rating": 4,
+"Comment": "Like the ease of getting to Netflix etc remote quit working 6 months after purchase which was disappointing",
+"Title": "Nice smart tv"
+},
+{
+"Name": "Hennesseyg",
+"Rating": 5,
+"Comment": "I have had this tv for several years now and I still love it. The picture is great as well as the sound quality. I love to listen to music in the morning while I shower and I feel as though my house is the party. Great but.",
+"Title": "Love my tv"
+},
+{
+"Name": "Aaron",
+"Rating": 4,
+"Comment": "Great TV with nice picture. Might want to invest in a sound bar tho.",
+"Title": "Great smart tv"
+}
+]

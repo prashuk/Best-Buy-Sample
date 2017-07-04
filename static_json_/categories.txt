@@ -1,0 +1,174 @@
+ [
+         {
+             "catName": "TV & Home Theater",
+             "catId": "abcat0100000"
+         },
+         {
+             "catName": "Audio",
+             "catId": "abcat0200000"
+         },
+         {
+             "catName": "Car Electronics & GPS",
+             "catId": "abcat0300000"
+         },
+         {
+             "catName": "Cameras & Camcorders",
+             "catId": "abcat0400000"
+         },
+         {
+             "catName": "Computers & Tablets",
+             "catId": "abcat0500000"
+         },
+         {
+             "catName": "Video Games, Movies & Music",
+             "catId": "pcmcat311300050017"
+         },
+         {
+             "catName": "Movies & Music",
+             "catId": "abcat0600000"
+         },
+         {
+             "catName": "Video Games",
+             "catId": "abcat0700000"
+         },
+         {
+             "catName": "Cell Phones",
+             "catId": "abcat0800000"
+         },
+         {
+             "catName": "Connected Home & Housewares",
+             "catId": "pcmcat312300050015"
+         },
+         {
+             "catName": "Appliances",
+             "catId": "abcat0900000"
+         },
+         {
+             "catName": "Health, Fitness & Beauty",
+             "catId": "pcmcat242800050021"
+         },
+         {
+             "catName": "Best Buy Gift Cards",
+             "catId": "cat09000"
+         },
+         {
+             "catName": "Corporate Gift Cards",
+             "catId": "pcmcat193400050004"
+         },
+         {
+             "catName": "Gift Ideas",
+             "catId": "abcat0010000"
+         },
+         {
+             "catName": "Name Brands",
+             "catId": "pcmcat128500050004"
+         },
+         {
+             "catName": "Reward Zone",
+             "catId": "pcmcat44800050004"
+         },
+         {
+             "catName": "Best Buy News",
+             "catId": "pcmcat133200050003"
+         },
+         {
+             "catName": "Magnolia Home Theater",
+             "catId": "pcmcat139900050002"
+         },
+         {
+             "catName": "Special Sale",
+             "catId": "pcmcat140700050010"
+         },
+         {
+             "catName": "Top-Rated Products",
+             "catId": "pcmcat140900050011"
+         },
+         {
+             "catName": "Electronics",
+             "catId": "pcmcat144600050035"
+         },
+         {
+             "catName": "Reviews & Ratings",
+             "catId": "pcmcat128800050004"
+         },
+         {
+             "catName": "Best Buy Racing",
+             "catId": "pcmcat149500050013"
+         },
+         {
+             "catName": "Partsearch",
+             "catId": "pcmcat156400050050"
+         },
+         {
+             "catName": "Best Buy For Business",
+             "catId": "pcmcat230900050001"
+         },
+         {
+             "catName": "Office",
+             "catId": "pcmcat245100050028"
+         },
+         {
+             "catName": "Housewares",
+             "catId": "pcmcat248700050021"
+         },
+         {
+             "catName": "Customer Service",
+             "catId": "pcmcat87800050001"
+         },
+         {
+             "catName": "e Gift Cards",
+             "catId": "pcmcat253600050018"
+         },
+         {
+             "catName": "Musical Instruments",
+             "catId": "abcat0207000"
+         },
+         {
+             "catName": "Featured Offers",
+             "catId": "pcmcat164600050001"
+         },
+         {
+             "catName": "Batteries & Power",
+             "catId": "pcmcat145100050000"
+         },
+         {
+             "catName": "Wearable Technology",
+             "catId": "pcmcat332000050000"
+         },
+         {
+             "catName": "Geek Squad",
+             "catId": "pcmcat138100050018"
+         },
+         {
+             "catName": "AppleCare",
+             "catId": "pcmcat748300453862"
+         },
+         {
+             "catName": "Toys, Games & Drones",
+             "catId": "pcmcat252700050006"
+         },
+         {
+             "catName": "AF TestingTemplate",
+             "catId": "pcmcat748302045953"
+         },
+         {
+             "catName": "Black Friday History",
+            "catId": "pcmcat748302046124"
+         },
+         {
+             "catName": "Digital Platform",
+             "catId": "sc_digital_platform"
+         },
+         {
+             "catName": "Tech Help & Inspiration",
+             "catId": "pcmcat748302046864"
+         },
+         {
+             "catName": "Black Friday",
+             "catId": "pcmcat225600050002"
+         },
+         {
+             "catName": "Best Buy Outlet",
+             "catId": "pcmcat142300050026"
+         }
+    ]

@@ -1,0 +1,62 @@
+[
+{
+"Name": "Oner",
+"Rating": 4,
+"Comment": "Picked this up on sale for use on the exterior of an RV. Didn't give it 5 stars because it's not a \"Smart TV\" and there are others available in this price range that have \"Smart\" capabilities.",
+"Title": "Okay price for a 32\" 1080p HDTV"
+},
+{
+"Name": "Cortes21",
+"Rating": 4,
+"Comment": "We purchased this for our 11 year olds birthday and its been a great TV. All of our TV's are Samsung and we love the quality we receive!!",
+"Title": "Great TV for my son's room"
+},
+{
+"Name": "Rebelyell",
+"Rating": 4,
+"Comment": "I'd buy this TV again in a minute. Perfect for the small area I had to put it in.",
+"Title": "Great tv"
+},
+{
+"Name": "FREAGNT63",
+"Rating": 5,
+"Comment": "WAS REPLACING A TV FOR PARENTS, GREAT DEAL, THEY LOVE IT.",
+"Title": "GREAT TV FOR THE PRICE"
+},
+{
+"Name": "Cotton2015",
+"Rating": 5,
+"Comment": "I use this TV in a guest bedroom It really livens up the room",
+"Title": "Good TV"
+},
+{
+"Name": "Dragron",
+"Rating": 5,
+"Comment": "I was skeptical to buy an open box from the store. The salesman says I buy all my products open boxes they are great. Do not have like the manual but you get a great product for a good price. It was exactly that!",
+"Title": "Great open box product."
+},
+{
+"Name": "best",
+"Rating": 5,
+"Comment": "Love this tv. Has great sound and picture. Quality very good. Price was good too.",
+"Title": "Great tv"
+},
+{
+"Name": "IronO",
+"Rating": 5,
+"Comment": "I would recommend this TV to anyone! It has good picture, good reception and reasonable price.",
+"Title": "Nice for the price"
+},
+{
+"Name": "Robyn",
+"Rating": 4,
+"Comment": "This tv was bought for a travel trailer. Good quality for the price.",
+"Title": "Tv for travel trailer"
+},
+{
+"Name": "Debclo",
+"Rating": 5,
+"Comment": "Havent upgraded tvs in the house for too long. Did my research and bought this one and not disappointed. So light and easy to hook up. Picture is clear and the sound is great. This one was for the bedroom and just the right size. Would highly recommend this one",
+"Title": "Love this tv"
+}
+]

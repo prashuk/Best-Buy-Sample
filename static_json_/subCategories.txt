@@ -1,0 +1,60 @@
+{“SubCategories”:
+[
+{
+"Name": "TVs",
+"Id": "abcat0101000"
+},
+{
+"Name": "Smart TVs & Devices",
+"Id": "abcat0103000"
+},
+{
+"Name": "Projectors & Screens",
+"Id": "pcmcat158900050008"
+},
+{
+"Name": "TV Stands, Mounts & Furniture",
+"Id": "abcat0106000"
+},
+{
+"Name": "Sound Bars",
+"Id": "abcat0205007"
+},
+{
+"Name": "Home Theater Systems",
+"Id": "abcat0203000"
+},
+{
+"Name": "Blu-ray & DVD Players",
+"Id": "abcat0102000"
+},
+{
+"Name": "Streaming Media Players",
+"Id": "pcmcat161100050040"
+},
+{
+"Name": "TV & Home Theater Accessories",
+"Id": "abcat0107000"
+},
+{
+"Name": "TV & Internet Service Providers",
+"Id": "abcat0105000"
+},
+{
+"Name": "TV & Home Theater Services",
+"Id": "pcmcat138100050024"
+},
+{
+"Name": "Magnolia Home Theater",
+"Id": "pcmcat139900050002"
+},
+{
+"Name": "Portable TV & Video",
+"Id": "pcmcat200900050008"
+},
+{
+"Name": "Why Best Buy for TVs",
+"Id": "pcmcat748300551037"
+}
+]
+}

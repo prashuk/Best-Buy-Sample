@@ -1,0 +1,102 @@
+[
+{
+"SalesPrice": 419.99,
+"Name": "VIZIO - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+"RegularPrice": 699.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/2783/2783415_s.gif",
+"isNewProduct": false,
+"isOnSale": true,
+"Sku": "2783415",
+"AverageReview": 4.6
+},
+{
+"SalesPrice": 229.99,
+"Name": "Samsung - 32\" Class (31-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+"RegularPrice": 229.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/3813/3813048_s.gif",
+"isNewProduct": false,
+"isOnSale": false,
+"Sku": "3813048",
+"AverageReview": 4.6
+},
+{
+"SalesPrice": 429.99,
+"Name": "Samsung - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+"RegularPrice": 429.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4340/4340402_s.gif",
+"isNewProduct": false,
+"isOnSale": false,
+"Sku": "4340402",
+"AverageReview": 4.5
+},
+{
+"SalesPrice": 299.99,
+"Name": "Samsung - 32\" Class (31.5\" Diag.) - LED - 1080p - Smart - HDTV - Silver",
+"RegularPrice": 299.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4380/4380083_s.gif",
+"isNewProduct": false,
+"isOnSale": false,
+"Sku": "4380083",
+"AverageReview": 4.7
+},
+{
+"SalesPrice": 499.99,
+"Name": "Samsung - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+"RegularPrice": 499.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4405/4405201_s.gif",
+"isNewProduct": false,
+"isOnSale": false,
+"Sku": "4405201",
+"AverageReview": 4.6
+},
+{
+"SalesPrice": 269.99,
+"Name": "VIZIO - 39\" Class (38.5\" Diag.) - LED - 720p - Smart - HDTV - Black",
+"RegularPrice": 269.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4559/4559300_s.gif",
+"isNewProduct": false,
+"isOnSale": true,
+"Sku": "4559300",
+"AverageReview": 4.5
+},
+{
+"SalesPrice": 649.99,
+"Name": "Samsung - 58\" Class (57.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+"RegularPrice": 649.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4562/4562031_s.gif",
+"isNewProduct": false,
+"isOnSale": true,
+"Sku": "4562031",
+"AverageReview": 4.6
+},
+{
+"SalesPrice": 84.99,
+"Name": "LG - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV - Black",
+"RegularPrice": 89.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4569/4569901_s.gif",
+"isNewProduct": false,
+"isOnSale": true,
+"Sku": "4569901",
+"AverageReview": 4.6
+},
+{
+"SalesPrice": 219.99,
+"Name": "Samsung - 32\" Class (31.5\" Diag.) - LED - 720p - Smart - HDTV - Black",
+"RegularPrice": 219.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4613/4613600_s.gif",
+"isNewProduct": false,
+"isOnSale": false,
+"Sku": "4613600",
+"AverageReview": 4.6
+},
+{
+"SalesPrice": 199.99,
+"Name": "Samsung - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV - Black",
+"RegularPrice": 199.99,
+"Image": "https://img.bbystatic.com/BestBuy_US/images/products/4629/4629257_s.gif",
+"isNewProduct": false,
+"isOnSale": false,
+"Sku": "4629257",
+"AverageReview": 4.6
+}
+]
